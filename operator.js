@@ -52,4 +52,24 @@ let selisih = nilai[2] - nilai[3];
 // console.log("hasilnya", hasil);
 // console.log("selisihnya", selisih);
 // console.log("selisih keduanya", hasil - selisih);
-console.log("hasilnya", hasil, "selisihnya",selisih); 
+// console.log("hasilnya", hasil, "selisihnya",selisih); 
+
+
+
+let harga = [10000, 15000, 20000];
+let jumlah = [2, 1, 3];
+let total =
+harga[0] * jumlah[0]+
+harga[1] * jumlah[1]+
+harga[2] * jumlah[2];
+// console.log(total);
+
+let hargaBARANG = [10000, 15000, 20000];
+let jumlahBARANG = [2, 1, 3];
+let total1 = hargaBARANG[0] * jumlahBARANG[0];
+let total2 = hargaBARANG[1] * jumlahBARANG[1];
+let total3 = hargaBARANG[2] * jumlahBARANG[2];
+// console.log("h1", total1, "h2", total2, "h3", total3);
+
+
+
