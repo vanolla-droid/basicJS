@@ -46,9 +46,10 @@ angka++;
 
 
 let nilai = [80, 75, 90, 60, 85];
-console.log(nilai[0]);
+// console.log(nilai[0]);
 let hasil = nilai[0] + nilai[1];
 let selisih = nilai[2] - nilai[3];
-console.log("hasilnya", hasil);
-console.log("selisihnya", selisih);
-console.log("selisih keduanya", hasil - selisih);
+// console.log("hasilnya", hasil);
+// console.log("selisihnya", selisih);
+// console.log("selisih keduanya", hasil - selisih);
+console.log("hasilnya", hasil, "selisihnya",selisih); 
