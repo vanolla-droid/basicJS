@@ -73,3 +73,8 @@ let total3 = hargaBARANG[2] * jumlahBARANG[2];
 
 
 
+
+let nilaiRATA=[80,75,90,85,70];
+let totalNILAI= nilaiRATA[0] + nilaiRATA[1] + nilaiRATA[2] + nilaiRATA[3] + nilaiRATA[4];
+let rata2 = totalNILAI / 5;
+console.log(rata2);
