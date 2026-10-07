@@ -78,4 +78,9 @@ let nilaiRATA=[80,75,65,45,90,90,78,80,35,95];
 let totalNILAI= nilaiRATA[0] + nilaiRATA[1] + nilaiRATA[2] + nilaiRATA[3] + nilaiRATA[4] + nilaiRATA[5] + nilaiRATA[6] + nilaiRATA[7] + nilaiRATA[8] + nilaiRATA[9];
 let jumlahSIAWA= 10;
 let rata2 = totalNILAI / jumlahSIAWA;
-console.log("Nilai Rata Rata ICT Lv.X adalah " +  rata2);
+// console.log("Nilai Rata Rata ICT Lv.X adalah " +  rata2);
+
+
+
+
+
