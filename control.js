@@ -87,12 +87,12 @@
 //     console.log("Nilainya " + nilai, "grade nya C");
 // }
 
-let punyaTiket = false;
-let punyaUndangan = true;
-if (punyaTiket && punyaUndangan) {
-    console.log("Tamu VIP");
-} else if (punyaTiket || punyaUndangan) { console.log("Tamu Biasa")
-} else { console.log("Tidak boleh masuk");}
+// let punyaTiket = false;
+// let punyaUndangan = true;
+// if (punyaTiket && punyaUndangan) {
+//     console.log("Tamu VIP");
+// } else if (punyaTiket || punyaUndangan) { console.log("Tamu Biasa")
+// } else { console.log("Tidak boleh masuk");}
 
 // let angka = [10, 15, 20, 25]
 // if (angka[3] % 2 === 0) {
