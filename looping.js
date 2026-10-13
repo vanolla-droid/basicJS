@@ -19,6 +19,23 @@
 
 
 
-for(let i=11;i<=20;i+=2) {
-    console.log(i);
+// for(let i=11;i<=20;i+=2) {
+//     console.log(i);
+// }
+
+
+// for (let i = 1; i <=5 ; i++) {
+//     console.log(i * i);
+// }
+// hasil di atas nanti seperti 
+// 1x1=1
+// 2x2=4
+// 3x3=9
+// 4x4=16
+// 5x5=25
+
+for (let i = 1; i <= 10; i++) {
+        console.log(1 , " x " , i , " = " , (1*i));
 }
+
+
