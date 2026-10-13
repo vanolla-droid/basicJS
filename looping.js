@@ -1,8 +1,8 @@
-console.log("nama saya lana");
-console.log("nama saya lana");
-console.log("nama saya lana");
-console.log("nama saya lana");
-console.log("nama saya lana");
+// console.log("nama saya lana");
+// console.log("nama saya lana");
+// console.log("nama saya lana");
+// console.log("nama saya lana");
+// console.log("nama saya lana");
 
 // for (let i = 2; i < 12; i++) {  //i++ akan menambah nilai i sebanyak 1 setiap kali perulangan 
 //     console.log("nama sahabat saya filxia")
@@ -13,6 +13,12 @@ console.log("nama saya lana");
 // }
 
 
-for (let i = 5; i >=0 ; i--) {
-    console.log(i)
+// for (let i = 5; i >=0 ; i--) {
+//     console.log(i)
+// }
+
+
+
+for(let i=0;i<=5;i+=2) {
+    console.log(i);
 }
