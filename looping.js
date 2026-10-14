@@ -39,10 +39,39 @@
 // }
 
 
-let total = 0
+// let total = 0
 
-for (let i = 1;i <= 5; i++){
-    total =  total + i
+// for (let i = 1;i <= 5; i++){
+//     total =  total + i
 
-  console.log(`i=${i} -> total=${total}`);
-}
+//   console.log(`i=${i} -> total=${total}`);
+// }
+
+
+
+
+// let total = 0
+
+// for (let i = 10;i <= 20; i+2){
+//     total =  total + i
+
+//   console.log(`i=${i} -> total=${total}`);
+// }
+
+
+
+
+// let nama = ["lana","filxia","keyya","lulu","alea","alecia","renora","bebe","ruby","hikuya"]
+// for (let i = 0; i < 10; i+=2) {
+//   console.log(nama[i]);
+// }
+
+
+
+// let nama = ["lana","filxia","keyya","lulu","alea","alecia","renora","bebe","ruby","hikuya"]
+// for (let i = 0; i < nama.length; i++) {
+//   console.log(`${i+1}.` , nama[i]);
+// }
+
+
+
