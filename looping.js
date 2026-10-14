@@ -34,8 +34,15 @@
 // 4x4=16
 // 5x5=25
 
-for (let i = 1; i <= 10; i++) {
-        console.log(1 , " x " , i , " = " , (1*i));
+// for (let i = 1; i <= 10; i++) {
+//         console.log(1 , " x " , i , " = " , (1*i));
+// }
+
+
+let total = 0
+
+for (let i = 1;i <= 5; i++){
+    total =  total + i
+
+  console.log(`i=${i} -> total=${total}`);
 }
-
-
