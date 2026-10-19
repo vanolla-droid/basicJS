@@ -2,7 +2,9 @@
 
 
 
+
 let a = 10;
+// console.log("hasilnya", hasil);// + tambah  - kurang   * kali    / bagi  ** pangkat  % hasil bagi
 let b = 3;
 hasill = a % b;
 
@@ -12,9 +14,7 @@ hasill = a % b;
 
 // pakai koma otomatis spasi, pkai + gak ada spasi di console
 // console.log("hasilnya"+ hasil);
-// console.log("hasilnya", hasil);
 
-// + tambah  - kurang   * kali    / bagi  ** pangkat  % hasil bagi
 
 
 
